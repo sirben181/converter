@@ -1,0 +1,20 @@
+*{
+    box-sizing:border-box;
+}
+body{margin:0;
+padding:0;}
+.converter{background:#722;
+height:150px;
+width:400px;
+position:absolute;
+top:50%;
+left:40%;}
+.converter-header{text-align:center;
+margin:13px 0;}
+input{
+height:25px;
+text-align:center;}
+#input{margin-left:25px;}
+#inputType, #resultType{width:166.66px;
+margin-left:25px;}
+#reultType{margin-left:12.5px;}
